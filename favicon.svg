@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Aliganj District Banao icon">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#F97316"/>
+      <stop offset="100%" stop-color="#EA580C"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="#0F3D2E"/>
+  <circle cx="64" cy="64" r="42" fill="url(#bg)" opacity="0.98"/>
+  <path d="M64 33l18 18-18 18-18-18 18-18zm0 28l18 18H46l18-18z" fill="#fff" opacity="0.95"/>
+  <path d="M39 79h50v8H39z" fill="#fff" opacity="0.9"/>
+</svg>
